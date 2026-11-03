@@ -1,0 +1,16 @@
+{
+  "name": "juncts",
+  "owner": {
+    "name": "Juncts",
+    "email": "joe@juncts.com",
+    "url": "https://juncts.com"
+  },
+  "description": "Juncts inbox tools and workflows for Claude.",
+  "plugins": [
+    {
+      "name": "juncts",
+      "source": "./plugin",
+      "description": "Read, summarize, draft replies to and organize your LinkedIn, X, Instagram, WhatsApp and Telegram messages in Juncts. Requires a Juncts account with a signed-in Juncts tab open."
+    }
+  ]
+}

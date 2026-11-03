@@ -1,0 +1,24 @@
+{
+  "name": "juncts",
+  "version": "0.1.1",
+  "description": "Read, summarize, draft replies to and organize your LinkedIn, X, Instagram, WhatsApp and Telegram messages in Juncts. Requires a Juncts account with a signed-in Juncts tab open.",
+  "author": {
+    "name": "Juncts",
+    "email": "joe@juncts.com",
+    "url": "https://juncts.com"
+  },
+  "homepage": "https://juncts.com",
+  "keywords": [
+    "inbox",
+    "messaging",
+    "productivity"
+  ],
+  "displayName": "Juncts",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://juncts.com/docs/mcp-cloud-connectors",
+  "supportUrl": "https://juncts.com/support",
+  "privacyPolicyUrl": "https://juncts.com/privacy",
+  "termsOfServiceUrl": "https://juncts.com/terms",
+  "license": "MIT",
+  "repository": "https://github.com/eteleieto/juncts-claude-plugin"
+}
