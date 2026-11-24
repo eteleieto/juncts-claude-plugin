@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "juncts": { "type": "http", "url": "https://juncts.com/api/connectors/mcp" }
+  }
+}
