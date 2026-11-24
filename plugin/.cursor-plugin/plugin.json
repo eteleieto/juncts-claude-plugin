@@ -1,0 +1,14 @@
+{
+  "name": "juncts",
+  "displayName": "Juncts",
+  "description": "Your AI-first inbox for LinkedIn, X, Instagram, WhatsApp and Telegram DMs. Let your assistant triage, label, summarize and draft replies across every app. Requires a Juncts account with a signed-in Juncts tab open.",
+  "version": "0.1.1",
+  "author": { "name": "Juncts", "email": "hello@juncts.com" },
+  "homepage": "https://juncts.com",
+  "repository": "https://github.com/eteleieto/juncts-claude-plugin",
+  "license": "MIT",
+  "logo": "./assets/icon.png",
+  "keywords": ["inbox", "messaging", "linkedin", "whatsapp", "telegram", "instagram", "mcp", "productivity"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
